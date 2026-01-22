@@ -1,4 +1,4 @@
-# PromptL Skill for Claude Code
+# PromptL Skill
 
 A Claude Code skill that helps LLMs write PromptL prompts for the [Latitude](https://latitude.so) platform.
 
